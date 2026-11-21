@@ -1,4 +1,4 @@
-# College Area Vehicle Rental – Data Science & ML Project
+# College Area Vehicle Rental – Data Science Project
 
 ## Project Overview
 This project analyzes vehicle rental data in a college area using Python. It focuses on identifying rental trends, customer preferences, pricing patterns, and applying basic machine learning techniques for prediction.
