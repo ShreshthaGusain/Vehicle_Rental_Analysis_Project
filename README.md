@@ -1,5 +1,9 @@
 # College Area Vehicle Rental – Data Science Project
 
+### Shreshtha Gusain
+### SapID: 590024023
+### B1-Data Science
+
 ## Project Overview
 This project analyzes vehicle rental data in a college area using Python. It focuses on identifying rental trends, customer preferences, pricing patterns, and applying basic machine learning techniques for prediction.
 
@@ -15,13 +19,10 @@ This project analyzes vehicle rental data in a college area using Python. It foc
 
 ## Repository Contents
 - **CSV File:** Vehicle rental dataset
-- **Python File:** Complete analysis and ML implementation
+- **Python File:** Complete analysis and implementation
 - **PDF File:** Project report prepared using Overleaf
 
-## How to Run
-1. Install the required Python libraries.
-2. Keep the CSV dataset and Python file in the same folder.
-3. Run the Python file to view the analysis and visualizations.
+
 
 ---
 
